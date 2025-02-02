@@ -1,0 +1,18 @@
+# Arquivos de dados
+*.csv
+*.xlsx
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp 
