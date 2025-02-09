@@ -1,6 +1,6 @@
 import json
 import time
-import  requests
+import requests
 import pandas as pd
 
 #5 intercity 
